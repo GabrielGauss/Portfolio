@@ -1,0 +1,75 @@
+[
+    {   "id": "01",
+        "titulo": "HTML5",
+        "img":"https://imgur.com/uzuT69Q",
+        "descripcion": "Mette KO gli avversari schiacciandoli sotto il corpo possente. Se è in difficoltà, può ritrarsi nella corazza."
+    },
+    {   "id": "02",
+        "titulo": "CSS",
+        "img":"https://imgur.com/InMeeJ6",
+        "descripcion": "Quando piange pensando alla madre defunta, i suoi lamenti riecheggiano tristemente all'interno del teschio che ha in testa."
+       
+    },
+    {   "id": "03",
+        "titulo": "Sass ",
+        "img":"https://imgur.com/3M0PLNh",
+        "descripcion": "Colpisce gli avversari con un gambo, che brandisce con l'ala come se fosse una spada. In caso di necessità, può anche mangiarselo."
+       
+    },
+
+    {   "id": "04",
+        "titulo": "Material Design ",
+        "img":"https://imgur.com/uS9jtRl",
+        "descripcion": "Colpisce gli avversari con un gambo, che brandisce con l'ala come se fosse una spada. In caso di necessità, può anche mangiarselo."
+       
+    },
+    {   "id": "05",
+        "titulo": "TailWind.css",
+        "img":"https://imgur.com/r5QkNWN",
+        "descripcion": "Colpisce gli avversari con un gambo, che brandisce con l'ala come se fosse una spada. In caso di necessità, può anche mangiarselo."
+       
+    },
+    {   "id": "07",
+        "titulo": "Bootstrap",
+        "img":"https://imgur.com/TNBMLGF",
+        "descripcion": "Colpisce gli avversari con un gambo, che brandisce con l'ala come se fosse una spada. In caso di necessità, può anche mangiarselo."
+       
+    },
+    {   "id": "08",
+        "titulo": "javaScript +ES6 ",
+        "img":"https://imgur.com/XiqGQNs",
+        "descripcion": "Colpisce gli avversari con un gambo, che brandisce con l'ala come se fosse una spada. In caso di necessità, può anche mangiarselo."
+       
+    },
+    {   "id": "09",
+        "titulo": "React",
+        "img":"https://imgur.com/DfV51ps",
+        "descripcion": "Colpisce gli avversari con un gambo, che brandisce con l'ala come se fosse una spada. In caso di necessità, può anche mangiarselo."
+       
+    },
+    {   "id": "10",
+        "titulo": "Node.js",
+        "img":"https://imgur.com/A2AXkBB",
+        "descripcion": "Colpisce gli avversari con un gambo, che brandisce con l'ala come se fosse una spada. In caso di necessità, può anche mangiarselo."
+       
+    },
+    {   "id": "11",
+        "titulo": "Firebase",
+        "img":"https://imgur.com/YIJ5cET",
+        "descripcion": "Colpisce gli avversari con un gambo, che brandisce con l'ala come se fosse una spada. In caso di necessità, può anche mangiarselo."
+       
+    },
+    {   "id": "12",
+        "titulo": "Sql",
+        "img":"https://imgur.com/avgglJR",
+        "descripcion": "Colpisce gli avversari con un gambo, che brandisce con l'ala come se fosse una spada. In caso di necessità, può anche mangiarselo."
+       
+    },
+    {   "id": "13",
+        "titulo": "Figma",
+        "img":"https://imgur.com/ITFMFmO",
+        "descripcion": "Colpisce gli avversari con un gambo, che brandisce con l'ala come se fosse una spada. In caso di necessità, può anche mangiarselo."
+       
+    }
+    
+]
